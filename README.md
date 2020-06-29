@@ -2,6 +2,8 @@
 
 The back-end of a mock online grocery shopping application (in no way inspired by Amazon Fresh).
 
+The NotSoFresh app is deployed on Heroku [here](https://not-so-fresh.herokuapp.com/)
+
 ## Getting Started
 
 To use this app you should fork and clone this repository and the the [front-end repository](https://github.com/fosterv2/online_grocery_shopping_front_end)
